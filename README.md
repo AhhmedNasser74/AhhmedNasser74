@@ -27,6 +27,8 @@ Building robust backend systems, one Spring Bean at a time .🚀
 ![Database](https://img.shields.io/badge/Database-003B57?logo=databricks&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 
 
 ## 🔗 Connect with Me
