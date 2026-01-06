@@ -12,11 +12,9 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in Springboot, Java, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+Backend Software Engineer focused on ☕️ Java and Spring Boot, with a 🧱 strong interest in designing clean backend architectures ⚙️, writing maintainable code 💻, and developing RESTful APIs using modern backend practices. <br/>
 
-
-
+Building robust backend systems, one Spring Bean at a time .🚀
 
 <br clear="right"/>
 
