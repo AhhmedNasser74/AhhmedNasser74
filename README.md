@@ -30,20 +30,6 @@ I have worked on projects that served thousands of users, built scalable applica
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-🏗️ Backend Excellence
-@RestController
-public class MySkills {
-    private final List<String> technologies = Arrays.asList(
-        "Java 17+", "Spring Boot", "Spring Security", 
-        "JPA/Hibernate", "REST APIs", "Microservices", 
-        "Docker", "PHP", "Laravel"
-    );
-    
-    @GetMapping("/build")
-    public ResponseEntity<String> buildSomethingAwesome() {
-        return ResponseEntity.ok("Let's create amazing systems together!");
-    }
-}
 
 ## 🔗 Connect with Me
 
